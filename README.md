@@ -29,6 +29,7 @@ For contributions to the content of the documentation, please refer to the
 To **report a content issue**, **request new content** or **ask a question**, use the
 [repository's issue tracker](https://github.com/odoo/documentation/issues).
 
+
 ## Learn More
 
 To learn more about Odoo, in addition to the documentation, have a look at
